@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Grafmassa';
+    src: url('Grafmassa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Grafmassa';
+    src: url('Grafmassa-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
